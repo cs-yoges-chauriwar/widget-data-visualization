@@ -10,8 +10,8 @@
             "Dashboard",
             "Reports"
         ],
-        "certified": "No",
-        "publisher": null,
+        "certified": "Yes",
+        "publisher": "Fortinet",
         "compatibility": [
             "7.6.2"
         ],
